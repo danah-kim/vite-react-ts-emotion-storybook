@@ -2,7 +2,7 @@ repo_name: danah-kim/vite-react-ts-emotion-storybook
 report_id: 8d74c19fda99669a5dfb655a20a84877
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:48:49+00:00'
+timestamp: '2024-02-29T18:40:24+00:00'
 requested_by: danah-kim
 provider: github
 branch: main
@@ -93,7 +93,7 @@ tools:
   last_updated_by: Danah
   last_updated_on: 2023-04-28 04:22:29.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.8
   license: MIT
